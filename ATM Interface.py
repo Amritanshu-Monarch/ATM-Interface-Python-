@@ -1,4 +1,3 @@
-#Program for an ATM
 pin = int(input("\nHello User! (^_^)\nPlease enter your Pin to proceed\n\nTo exit, Press 1\n\nPin : "))
 if pin != 1:
     class ATM:
